@@ -1,0 +1,37 @@
+{
+  "name": "gatsby-block-builder",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "description": "Gatsby Block Builder is the way to you create your own professional Atomic Components.",
+  "author": "Milton Bolonha <miltonbolonha@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-layout",
+    "gatsby-builder",
+    "gatsby-block",
+    "gatsby-block-builder",
+    "block-builder",
+    "builder"
+  ],
+	"dependencies":{
+		"gatsby": "^4.1.0",
+    "gatsby-atomic-block": "0.2.5",
+    "gatsby-layout-builder": "^0.1.7",
+    "react-responsive-carousel": "^3.2.22",
+    "react-share": "^4.4.0",
+		"react": "^17.0.2",
+    "react-dom": "^17.0.2",
+		"react-icons": "^4.3.1"
+	},
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "license": "MIT"
+}
+
+
